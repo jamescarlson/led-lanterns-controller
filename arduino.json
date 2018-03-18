@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM4",
+    "sketch": "led_lanterns_controller.ino",
+    "output": "../build"
+}
